@@ -1,4 +1,4 @@
-## Tim's Community Chess Tournament
+## @injoon5 's Community Chess Tournament
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white piece.
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
@@ -25,16 +25,16 @@
 | **H1** | [G1](https://github.com/injoon5/timburgan/issues/new?title=chess%7Cmove%7Ch1g1%7C361836&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H2** | [H3](https://github.com/injoon5/timburgan/issues/new?title=chess%7Cmove%7Ch2h3%7C361836&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H4](https://github.com/injoon5/timburgan/issues/new?title=chess%7Cmove%7Ch2h4%7C361836&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
-**How this works**
+## How this works
 When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile  with the new state of the board.
-**Notice a problem?**
+## Notice a problem?
 Raise an [issue](https://github.com/injoon5/chessreadme/issues), and include the text _cc @injoon5_.
-**Last few moves, this game**
+## Last few moves, this game
 | Move  | Who |
 | ----- | --- |
 | A5 to A4 | [@injoon5](https://github.com/injoon5) |
 | A1 to A2 | [@injoon5](https://github.com/injoon5) |
-**Top 20 Leaderboard: Most moves across all games, except me.**
+## Top 20 Leaderboard: Most moves across all games, except me.
 | Moves | Who |
 | ----- | --- |
 | 1 | [@injoon5](https://github.com/injoon5) |
