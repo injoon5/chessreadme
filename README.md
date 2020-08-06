@@ -28,7 +28,7 @@ Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/sh
 **How this works**
 When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile  with the new state of the board.
 **Notice a problem?**
-Raise an [issue](https://github.com/injoon5/timburgan/issues), and include the text _cc @timburgan_.
+Raise an [issue](https://github.com/injoon5/chessreadme/issues), and include the text _cc @injoon5_.
 **Last few moves, this game**
 | Move  | Who |
 | ----- | --- |
